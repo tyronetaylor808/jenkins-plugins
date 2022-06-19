@@ -1,4 +1,5 @@
 # jenkins-plugins
+```
 /data/jenkins/jenkins_home/plugins
 ace-editor/
 ansible/
@@ -131,3 +132,4 @@ workflow-scm-step/
 workflow-step-api/
 workflow-support/
 ws-cleanup/
+```
